@@ -1,2 +1,2 @@
 hello = 0
-print "Hello World"
+print("This line will be printed.")
